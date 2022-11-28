@@ -1,5 +1,5 @@
 # Hello everyone!
-I'm Pablo Alonso. I'm future computer scientist. I am a lover of programming and mathematics.
+I'm Pablo Alonso. I'm a future computer scientist. I am a lover of programming and mathematics.
 If you want to contribute to a project just let me know.
 
 <!---
