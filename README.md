@@ -1,5 +1,5 @@
 # Hello everyone!
-I'm Pablo Alonso. I'm a future computer scientist. I am a lover of programming and mathematics.
+Passionate developer with a love for computer science and competitive programming. I thrive on challenges and continuous learning. I have a keen interest in contributing to open-source initiatives and collaborating within the realm of technology.
 If you want to contribute to a project just let me know.
 
 <!---
